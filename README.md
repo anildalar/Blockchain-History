@@ -3,7 +3,7 @@
 A chronological timeline of blockchain technology, tracing its evolution from early concepts to widespread application.
 
 ## **Early Concepts**
-- **1982**: David Chaum introduces a blockchain-like system in his dissertation, *"Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups."*
+- [**1982**: David Chaum introduces a blockchain-like system in his dissertation, *"Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups."*](https://evervault.com/papers/chaum.pdf)
 - **1991**: Stuart Haber and W. Scott Stornetta describe a cryptographically secure chain of blocks for timestamping digital documents.
 - **1992**: Merkle trees are incorporated to optimize efficiency, enabling multiple documents to be grouped into a single block.
 
